@@ -1,3 +1,11 @@
+# 修复问题：
+这是一个ROS2的包
+改了  save  map， 使用话题就可以
+点云处理，半径范围内捋除的条件
+修改了NDT+ICP的除了，以前ICP只能校准5cm左右，现在没有做限制
+改了imu的初始姿态，使用重力计算
+
+
 # Lightning-LM
 
 Lightning-Speed Lidar Localization and Mapping
